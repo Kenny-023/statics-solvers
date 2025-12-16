@@ -1,0 +1,1 @@
+These programs solve various types of statics equilibrium problems. The exact function of each program differs since there are many kinds of problems in statics, even within the same topic. Also it is quite cumbersome to make solvers for certain topics in statics.
